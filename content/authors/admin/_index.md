@@ -53,15 +53,15 @@ skills:
         # percent: 80
         icon: python
         icon_pack: fab
-      - name: C++
+      - name: python
         description: ''
         # percent: 100
         icon: cpp
         icon_pack: fas
-      - name: Javascript
+      - name: python
         description: ''
         # percent: 40
-        icon: javascript
+        icon: python
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -70,17 +70,17 @@ skills:
       - name: Volleyball
         description: ''
         percent: 60
-        icon: volleyball
+        icon: python
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        icon: python
         icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: python
         icon_pack: fas
 
 # Social/Academic Networking

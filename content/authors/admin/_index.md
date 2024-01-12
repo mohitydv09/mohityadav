@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student in Robotics
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,23 +25,23 @@ organizations:
     url: https://twin-cities.umn.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am this and that.
+bio: ''
 
 # Education to show in About widget
 education:
   courses:
     - course: MS in Robotics
       institution: University of Minnesota
-      year: 2023 - 2025(expected)
-    - course: B.Tech. in Mechanial Engineering
+      year: 2023 - 2025 (expected)
+    - course: BTech in Mechanial Engineering
       institution: Indian Institute of Technology (BHU) Varanasi
       year: 2014 - 2018
 
 # Interests to show in About widget
 interests:
-  - Somthing here too.
-  - Computational Linguistics
-  - Information Retrieval
+  - Robot Manipulation and Perception
+  - Computer Vision
+  - Machine Learning
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -108,5 +108,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a graduate student i Robotics and Artificial Intelligence at University of Minnesota.
+I am currently a graduate student i Robotics and Artificial Intelligence at [University of Minnesota](https://twin-cities.umn.edu/).
 {style="text-align: justify;"}

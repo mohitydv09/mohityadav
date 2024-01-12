@@ -39,9 +39,10 @@ education:
 
 # Interests to show in About widget
 interests:
-  - Robot Manipulation and Perception
-  - Computer Vision
-  - Machine Learning
+  - text: Robot Manipulation and Perception
+    class: no-line-break
+  - text: Computer Vision
+  - text: Machine Learning
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -108,5 +109,9 @@ social:
 highlight_name: true
 ---
 
-I am currently a graduate student i Robotics and Artificial Intelligence at [University of Minnesota](https://twin-cities.umn.edu/).
+I am a graduate student in Robotics and Artificial Intelligence at [Minnesota Robotics Institute (MnRI)](https://cse.umn.edu/mnri), advised by [Assistant Professor Karthik Desingh](https://karthikdesingh.com) in the [Robotics: Perception, and Manipulation (RPM) Lab](https://rpm-lab.github.io). My undergraduate degree is in mechanical engineering from the [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in).
+
+Previously, I worked at Nuclear Power Corporation of India Limited and Bhabha Atomic Research Center, contributing to the design of a spent fuel handling machine—a large manipulator for picking and placing fuel assemblies. This experience fueled my desire to study intelligent manipulators.
+
+My interest lies in developing intelligent robots to address critical industrial challenges. With a strong foundation in math and physics, coupled with a keen interest in adopting new technologies, I am eager to contribute to industries by creating artificial intelligence for enhancing the capabilities of robots.
 {style="text-align: justify;"}

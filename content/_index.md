@@ -65,24 +65,33 @@ sections:
         - title: Scientist
           company: Nuclear Power Coorporation of India Limited
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          # company_logo: org-gc
+          location: Mumbai, India
+          date_start: '2021-11-01'
+          date_end: '2021-08-15'
           description: |2-
-              Responsibilities include:
-
               * Worked on design and development of indigenous Fuel Handling Machine capable of remotely handling spent fuel assemblies in the wet type Spent Fuel Storage Facility.
               * Designed machine components to meet codal requirements and collaborated with vendors to optimize for manufacturability in India under the national Make in India scheme.
               * Provided solutions to Engineering Assistance requests raised by the power plant site for fuel and material handling operations.
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Trainee Scientist
+          company: Bhabha Atomic Research Center
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          # company_logo: org-x
+          location: Mumbai, India
+          date_start: '2021-01-01'
+          date_end: '2020-10-31'
+          description: |2-
+              * Received training in advanced mechanical engineering subjects such as Finite Element Method, Computational Fluid Dynamics, Code Design, Mechanics of Solids, and their application in the design of nuclear power plant components.
+              * Selected as one of the 16 students nationwide for this prestigious 10-month training program, among which I secured a position in top three performing students upon completion of the training program.
+        - title: Engineer
+          company: Tata Motors Limited
+          company_url: ''
+          # company_logo: org-x
+          location: Noida, India
+          date_start: '2018-08-01'
+          date_end: '2019-01-31'
+          description: |2-
+              * Decreased the time taken to consolidate data received from dealerships of TML by automating the process using Excel, thereby increasing the productivity of the sales team.
     design:
       columns: '2'
   - block: accomplishments

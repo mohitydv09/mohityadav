@@ -36,12 +36,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ms in Robotics
+    - course: MS in Robotics
       institution: University of Minnesota
-      year: 2023-2025(expected)
+      year: 2023 - 2025(expected)
     - course: B.Tech. in Mechanial Engineering
       institution: Indian Institute of Technology (BHU) Varanasi
-      year: 2009
+      year: 2014 - 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -90,7 +90,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/yadav171@umn.edu'
+    link: mailto:yadav171@umn.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/mohitydv09

@@ -237,8 +237,8 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: yadav171@umn.edu
-      phone: 7639137263
+      email: mohitydv09@gmail.com
+      # phone: 7639137263
       # appointment_url: 'https://calendly.com'
       address:
         street: 2600 University Ave SE

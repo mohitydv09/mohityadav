@@ -27,12 +27,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am this and that.
 
-# Interests to show in About widget
-interests:
-  - Somthing here too.
-  - Computational Linguistics
-  - Information Retrieval
-
 # Education to show in About widget
 education:
   courses:
@@ -42,6 +36,12 @@ education:
     - course: B.Tech. in Mechanial Engineering
       institution: Indian Institute of Technology (BHU) Varanasi
       year: 2014 - 2018
+
+# Interests to show in About widget
+interests:
+  - Somthing here too.
+  - Computational Linguistics
+  - Information Retrieval
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -90,7 +90,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:yadav171@umn.edu
+    link: "mailto:yadav171@umn.edu"
   - icon: github
     icon_pack: fab
     link: https://github.com/mohitydv09

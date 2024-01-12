@@ -39,10 +39,9 @@ education:
 
 # Interests to show in About widget
 interests:
-  - text: Robot Manipulation and Perception
-    class: no-line-break
-  - text: Computer Vision
-  - text: Machine Learning
+  - Robot Manipulation and Perception
+  - Computer Vision
+  - Machine Learning
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

@@ -14,10 +14,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: ''
+  - icon:
     icon_pack: fab
-    name: ''
-    url: ''
+    name:
+    url:
 url_code: 'https://github.com/mohitydv09/Ultimate-Tic-Tac-Toe'
 url_pdf: 'https://github.com/mohitydv09/Ultimate-Tic-Tac-Toe/blob/main/report.pdf'
 url_slides: ''

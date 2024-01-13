@@ -51,18 +51,18 @@ skills:
       - name: Python | C++ | Javascript
         description: ''
         # percent: 80
-        icon: 
+        icon: python
         icon_pack: fab
       - name: C++
         description: ''
         # percent: 100
-        icon: 
+        icon: cplusplus
+        icon_pack: icon
+      - name: Javascript
+        description: ''
+        # percent: 40
+        icon: js
         icon_pack: fas
-      # - name: Javascript
-      #   description: ''
-      #   # percent: 40
-      #   icon: python
-      #   icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -77,10 +77,10 @@ skills:
         # percent: 100
         icon: person-hiking
         icon_pack: fas
-      - name: Photography
+      - name: Running
         description: ''
         # percent: 80
-        icon: python
+        icon: person-running
         icon_pack: fas
 
 # Social/Academic Networking

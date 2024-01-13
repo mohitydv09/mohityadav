@@ -1,6 +1,8 @@
 ---
-title: Real-time Human Pose Imitation on Baxter Robot.[
-summary: Utilized BlazePose for 3D human pose extraction, which was used to calculate essential joint angles to translate the pose on Baxter Robot in KinEval(a ROS like middleware system) simulation environment.
+title: Real-time Human Pose Imitation on Baxter Robot
+summary:
+  -  Utilized BlazePose for 3D human pose extraction, which was used to calculate essential joint angles to translate the pose on Baxter Robot in KinEval(a ROS like middleware system) simulation environment.
+  - hello
 
 tags:
   - Deep Learning

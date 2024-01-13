@@ -164,22 +164,22 @@ sections:
       items:
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/B6S6FNR99DGM
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2020-07-20'
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Algorithmic Toolbox
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/TZDE4G4N6PVW
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2023-05-18'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Data Structures
+          url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'

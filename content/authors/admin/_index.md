@@ -56,8 +56,8 @@ skills:
       - name: C++
         description: ''
         # percent: 100
-        icon: fa-file-code-o
-        icon_pack: fa
+        icon: code
+        icon_pack: fab
       - name: Javascript
         description: ''
         # percent: 40

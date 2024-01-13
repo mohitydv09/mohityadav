@@ -39,7 +39,7 @@ education:
 
 # Interests to show in About widget
 interests:
-  - Robot Manipulation and Perception
+  - Robot Manipulation & Perception
   - Computer Vision
   - Machine Learning
 

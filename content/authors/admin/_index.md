@@ -57,12 +57,12 @@ skills:
         description: ''
         # percent: 100
         icon: code
-        icon_pack: fab
+        icon_pack: fa
       - name: Javascript
         description: ''
         # percent: 40
         icon: js
-        icon_pack: fas
+        icon_pack: fa
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

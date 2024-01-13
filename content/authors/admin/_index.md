@@ -61,7 +61,7 @@ skills:
       - name: Javascript
         description: ''
         # percent: 40
-        icon: js
+        icon: square-js
         icon_pack: fa
   - name: Hobbies
     color: '#eeac02'

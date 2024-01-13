@@ -56,7 +56,7 @@ skills:
       - name: C++
         description: ''
         # percent: 100
-        icon: fa/file-code
+        icon: fa-file-code-o
         icon_pack: fa
       - name: Javascript
         description: ''
@@ -67,7 +67,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Volleyball | Hiking | Photography
+      - name: Volleyball
         description: ''
         # percent: 60
         icon: volleyball

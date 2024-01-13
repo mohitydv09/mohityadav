@@ -53,12 +53,12 @@ skills:
         # percent: 80
         icon: python
         icon_pack: fab
-      - name: python
+      - name: C++
         description: ''
         # percent: 100
-        icon: cpp
+        icon: 
         icon_pack: fas
-      - name: python
+      - name: Javascript
         description: ''
         # percent: 40
         icon: python
@@ -69,17 +69,17 @@ skills:
     items:
       - name: Volleyball
         description: ''
-        percent: 60
-        icon: python
+        # percent: 60
+        icon: volleyball
         icon_pack: fas
-      - name: Cats
+      - name: Hiking
         description: ''
-        percent: 100
-        icon: python
+        # percent: 100
+        icon: person-hiking
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        # percent: 80
         icon: python
         icon_pack: fas
 

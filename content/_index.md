@@ -198,6 +198,24 @@ sections:
           organization_url: https://www.coursera.org
           title: Improving Deep Neural Networks - Hyperparameter Tuning, Regularization and Optimization
           url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/Z55K32NXA2SC
+          date_end: ''
+          date_start: '2023-07-03'
+          description: ''
+          icon: coursera
+          organization: coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/records/BHA7C259TNK7
+          date_end: ''
+          date_start: '2023-07-04'
+          description: ''
+          icon: coursera
+          organization: coursera
+          organization_url: https://www.coursera.org
+          title: Structuring Machine Learning Projects
+          url: ''
     design:
       columns: '2'
   # - block: markdown

@@ -164,7 +164,7 @@ sections:
       items:
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/B6S6FNR99DGM
           date_end: ''
-          date_start: '2020-05-15'
+          date_start: '2023-05-15'
           description: ''
           icon: coursera
           organization: Coursera
@@ -182,12 +182,21 @@ sections:
           url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/KT7M3D668RWG
           date_end: ''
-          date_start: '2020-07-01'
+          date_start: '2023-07-01'
           description: ''
           icon: coursera
           organization: coursera
           organization_url: https://www.coursera.org
           title: Machine Learning Specialization
+          url: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/records/GMWRN9KBE98U
+          date_end: ''
+          date_start: '2023-07-05'
+          description: ''
+          icon: coursera
+          organization: coursera
+          organization_url: https://www.coursera.org
+          title: Improving Deep Neural Networks - Hyperparameter Tuning, Regularization and Optimization
           url: ''
     design:
       columns: '2'

@@ -48,26 +48,26 @@ interests:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Python | C++ | Javascript
         description: ''
         # percent: 80
-        icon: python
+        icon: 
         icon_pack: fab
       - name: C++
         description: ''
         # percent: 100
         icon: 
         icon_pack: fas
-      - name: Javascript
-        description: ''
-        # percent: 40
-        icon: python
-        icon_pack: fas
+      # - name: Javascript
+      #   description: ''
+      #   # percent: 40
+      #   icon: python
+      #   icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Volleyball
+      - name: Volleyball | Hiking | Photography
         description: ''
         # percent: 60
         icon: volleyball

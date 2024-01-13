@@ -152,7 +152,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Certification'
+      title: 'Certifications'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -164,7 +164,7 @@ sections:
       items:
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/B6S6FNR99DGM
           date_end: ''
-          # date_start: '2021-01-25'
+          date_start: '2021-01-25'
           description: ''
           icon: coursera
           organization: Coursera

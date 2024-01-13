@@ -33,6 +33,7 @@ url_video: ''
 # slides: example
 ---
 
-Mohit
+Utilized BlazePose for 3D human pose extraction, which was used to calculate essential joint angles to translate the pose on Baxter Robot in KinEval(a ROS like middleware system) simulation environment.
 
-Yadav
+Established real-time communication via Flask between Python script and KinEval. Implemented proportional controls
+in KinEval to allow smooth replication of human poses on Simulated Baxter Robot.

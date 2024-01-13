@@ -48,7 +48,7 @@ interests:
 skills:
   - name: Technical
     items:
-      - name: Python | C++ | Javascript
+      - name: Python
         description: ''
         # percent: 80
         icon: python
@@ -56,8 +56,8 @@ skills:
       - name: C++
         description: ''
         # percent: 100
-        icon: cplusplus
-        icon_pack: icon
+        icon: fa/file-code
+        icon_pack: fa
       - name: Javascript
         description: ''
         # percent: 40

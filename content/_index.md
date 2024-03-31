@@ -70,9 +70,8 @@ sections:
           date_start: '2021-11-01'
           date_end: '2023-08-15'
           description: |2-
-              * Worked on design and development of indigenous Fuel Handling Machine capable of remotely handling spent fuel assemblies in the wet type Spent Fuel Storage Facility.
-              * Designed machine components to meet codal requirements and collaborated with vendors to optimize for manufacturability in India under the national Make in India scheme.
-              * Provided solutions to Engineering Assistance requests raised by the power plant site for fuel and material handling operations.
+              * Implemented end-to-end Matlab pipeline for performing Probabilistic and Deterministic Safety Hazard Analysis to determining the design basis ground parameters of different NPP sites. Implemented mathematical models for every part of the process, from determination of source characteristics of lineaments in the area of concern to generation of design basis ground response spectra.
+              * Used a site-specific custom soil profile randomization using site-specific data and Latin hypercube sampling to model property variation.
         - title: Trainee Scientist
           company: Bhabha Atomic Research Center
           company_url: ''
@@ -81,8 +80,8 @@ sections:
           date_start: '2021-01-01'
           date_end: '2021-10-31'
           description: |2-
-              * Received training in advanced mechanical engineering subjects such as Finite Element Method, Computational Fluid Dynamics, Code Design, Mechanics of Solids, and their application in the design of nuclear power plant components.
-              * Selected as one of the 16 students nationwide for this prestigious 10-month training program, among which I secured a position in top three performing students upon completion of the training program.
+              * Engaged in an interdisciplinary training program that covered computational techniques and their applications in engineering, including topics such as FEA, CFD, and reliability engineering.
+              * Selected as one of the 16 students nationwide for a prestigious 10-month training program following a highly competitive technical interview. Recognized as one of the top three performing candidates upon completing the program.
         - title: Engineer
           company: Tata Motors Limited
           company_url: ''
@@ -91,7 +90,7 @@ sections:
           date_start: '2018-08-01'
           date_end: '2019-01-31'
           description: |2-
-              * Decreased the time taken to consolidate data received from dealerships of TML by automating the process using Excel, thereby increasing the productivity of the sales team.
+              * Optimized data consolidation workflows from TML dealerships by developing an automated system in Python, which helped enhance the efficiency of sales team.
     design:
       columns: '2'
 

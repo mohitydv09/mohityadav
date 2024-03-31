@@ -110,7 +110,7 @@ highlight_name: true
 
 I am a graduate student in Robotics and Artificial Intelligence at [Minnesota Robotics Institute (MnRI)](https://cse.umn.edu/mnri), advised by [Assistant Professor Karthik Desingh](https://karthikdesingh.com) in the [Robotics: Perception, and Manipulation (RPM) Lab](https://rpm-lab.github.io). My undergraduate degree is in mechanical engineering from the [Indian Institute of Technology (BHU) Varanasi](https://iitbhu.ac.in).
 
-Prior to pursuing masters, I worked at Nuclear Power Corporation of India Limited and Bhabha Atomic Research Center, contributing to the design of a spent fuel handling machine—a large manipulator for picking and placing fuel assemblies. This experience fueled my desire to study intelligent manipulators.
+Prior to pursuing masters, I worked at Nuclear Power Corporation of India Limited and Bhabha Atomic Research Center, contributing to the seismic analysis of a spent fuel handling machine—a large manipulator for picking and placing fuel assemblies. This experience fueled my desire to study intelligent manipulators.
 
 My interest lies in developing intelligent robots to address critical industrial challenges. With a strong foundation in math and physics, coupled with a keen interest in adopting new technologies, I am eager to contribute to industries by creating artificial intelligence for enhancing the capabilities of robots.
 {style="text-align: justify;"}
